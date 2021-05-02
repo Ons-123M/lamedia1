@@ -1,0 +1,43 @@
+#info {border: solid 10px black;
+    margin :50px;
+    padding: 30px;
+    background-color: tomato;}
+#inscript {background-color: yellow;
+padding: 30px;
+border: solid 10px blue;
+}
+#pret {background-color: turquoise;
+margin: 50px;
+border: solid 10px pink;
+}
+/*les codes du css */
+section{
+    font-family: Arial;
+    background-color: rgb(193, 243, 93);
+}
+
+#formulaire {
+    position: relative;
+    margin: auto;
+    width: 300px;
+}
+#lbsaisie{
+    display: inline-black;
+    width: 140px;
+    line-height: 30px;
+}
+.bouton{
+    width: 360px;
+}
+/*image*/
+.entoureImg{
+    float:right;
+}
+#fondPestin{
+    background-image: url('https://img.wallpapersafari.com/desktop/1440/900/71/68/qopVBO.jpg') ;
+    color: brown;
+    font-size: 22px;
+    font-style: oblique;
+    text-align: left;
+    font-weight: bold;
+}
